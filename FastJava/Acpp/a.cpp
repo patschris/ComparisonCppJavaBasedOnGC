@@ -5,15 +5,15 @@
 
 #define ELEMENTS 20000000	// amount of elements in the initial list
 #define ITERATIONS 40000	// iterations over the final list after the deletions
-#define F 2500				// 1 per F stays alive
+#define F 2500			// 1 per F stays alive
 
 using namespace std;
 
 
 /************** Global variables **************/
-/**/			list<int*> l;				/**/
-/**/		list<int*>::iterator it;		/**/
-/**/	int num, counter, minimum, maximum;	/**/
+/**/			list<int*> l;	   /**/
+/**/		list<int*>::iterator it;   /**/
+/**/	int num, counter, minimum, maximum;/**/
 /**********************************************/
 
 /* 
