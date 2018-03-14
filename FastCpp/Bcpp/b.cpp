@@ -50,8 +50,8 @@ class B : public A {
 
 
 /********** Global variables **********/
-/**/	int *standard_overhead;		/**/
-/**/	A *additional_overhead;		/**/
+/**/	int *standard_overhead;	    /**/
+/**/	A *additional_overhead;     /**/
 /**************************************/
 
 /*
